@@ -1,0 +1,13 @@
+numpy
+pandas
+inflection
+Flask
+xgboost==1.6.2
+scikit-learn
+missingno
+pyod
+category_encoders
+tabulate
+pickle
+boruta
+dython
