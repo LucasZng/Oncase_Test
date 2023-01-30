@@ -8,6 +8,5 @@ missingno
 pyod
 category_encoders
 tabulate
-pickle
 boruta
 dython
